@@ -2,7 +2,7 @@
    /**
    * PHP class for Vidoza API
    * 
-   * @author     ToishY
+   * @author     ToshY
    * @version    1.0.0
    */
 	class VidozaMain{
